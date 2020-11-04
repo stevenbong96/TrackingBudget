@@ -1,7 +1,7 @@
 # Tracking Budget
 
 ## Description 
-
+The purpose of this application is to track your budget without calculating it manually. However, the real objective of this application is to introduce manifest and service-worker files. The purpose of adding both files are to be able to use this application fully functional even though they are offline and able to download to the local host. Without these 2 files, this application will not be able to run properly in offline state.
     
 ## Table of Contents
 * [Installation](#installation)
@@ -37,8 +37,8 @@ Proof of test result of this application works (Shown by Connection ID)
 ![Test Results](./public/images/TestResult.JPG)
 
 ## License 
-  
-MIT License
+
+![GitHub](https://img.shields.io/github/license/stevenbong96/TrackingBudget) 
 
 ## Application Screenshot
 
